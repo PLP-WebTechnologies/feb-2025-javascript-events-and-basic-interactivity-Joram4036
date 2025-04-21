@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    background-color: white;
+    color: black;
+}
+
+h1{
+    color: rgb(20, 181, 128);
+}
+
+label {
+    display: block;
+    margin-top: 10px;
+    color: rgb(10, 99, 99);
+}
+
+input {
+    padding: .7rem;
+    margin-bottom: 10px;
+    width: 100%;
+    max-width: 300px;
+    border-radius: 10px;
+}
+
+button {
+    padding: 10px 15px;
+    margin-top: 10px;
+    background: rgb(20, 181, 128);
+    color: azure;
+    border-radius: 10px;
+    font-size: 1rem;
+    border: none;
+}
+
+.hidden {
+    display: none;
+}
+
+.dark-mode {
+    background-color: #130d0d;
+    color: white;
+}
